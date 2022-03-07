@@ -8,7 +8,6 @@
 ## Contents
 
 - [Resources](#resources)
-- [Scripts] (#scripts)
 
 ## Resources
 
@@ -22,6 +21,6 @@
 
 - [Basic Meterpreter Enumeration] (https://github.com/stemackgb/Checklist/blob/main/Meterpreter%20Enumeration.md)
 
-## Resources
+## Scripts
 
-- [LFI Detection (WIP)] (https://github.com/stemackgb/LFI/blob/main/LFI_ProcList3.py)
+- [LFI Detection] (https://github.com/stemackgb/LFI/blob/main/LFI_ProcList3.py)
