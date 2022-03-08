@@ -9,17 +9,23 @@
 
 - [Resources](#resources)
 
-## Resources
+## Windows Resources
 
 - [Basic Windows Enumeration] (https://github.com/stemackgb/Checklist/blob/main/Windows%20Enumeration.md)
 
-- [Misconfigured Windows Service(s)] (https://github.com/stemackgb/Checklist/blob/main/Misconfigured%20Service.md)
+- [Misconfigured Windows Services] (https://github.com/stemackgb/Checklist/blob/main/Misconfigured%20Service.md)
 
 - [Basic Windows Privilege Escalation] (https://github.com/stemackgb/Checklist/blob/main/Windows%20Escalation.md)
 
+## Linux Resources
+
 - [Basic Linux Enumeration] (https://github.com/stemackgb/Checklist/blob/main/Linux%20Enumeration.md)
 
+## Other Resources
+
 - [Basic Meterpreter Enumeration] (https://github.com/stemackgb/Checklist/blob/main/Meterpreter%20Enumeration.md)
+
+- [How to: Proxychains] (https://github.com/stemackgb/Checklist/blob/main/Proxychain.md)
 
 ## Scripts
 
