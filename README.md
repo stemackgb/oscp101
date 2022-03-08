@@ -28,6 +28,8 @@
 
 - [Proxychains] (https://github.com/stemackgb/Checklist/blob/main/Proxychain.md)
 
+- [Reverse Port Forwarding] (https://github.com/stemackgb/Checklist/blob/main/Reverse%20Portfwd.md)
+
 ## Scripts
 
 - [LFI Detection] (https://github.com/stemackgb/LFI/blob/main/LFI_ProcList3.py)
