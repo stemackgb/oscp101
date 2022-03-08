@@ -26,7 +26,7 @@
 
 - [Basic Meterpreter Enumeration] (https://github.com/stemackgb/Checklist/blob/main/Meterpreter%20Enumeration.md)
 
-- [How to: Proxychains] (https://github.com/stemackgb/Checklist/blob/main/Proxychain.md)
+- [Proxychains] (https://github.com/stemackgb/Checklist/blob/main/Proxychain.md)
 
 ## Scripts
 
